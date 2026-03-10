@@ -1,0 +1,11 @@
+Library/
+Temp/
+.vs/
+Logs/
+UserSettings/
+Packages/
+*.sln
+*.slnx
+*.csproj
+*.unityproj
+*.userprefs
